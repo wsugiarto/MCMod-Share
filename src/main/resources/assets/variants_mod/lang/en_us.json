@@ -1,0 +1,20 @@
+{
+    "item.variants_mod.night_star": "Night Star",
+    "item.variants_mod.tnt_gun": "TNT Gun",
+    "item.variants_mod.topaz": "Topaz",
+    "item.variants_mod.metal_detector": "Metal Detector",
+    "item.variants_mod.topaz_staff": "Topaz Staff",
+    "item.variants_mod.diamond_staff": "Diamond Staff",
+    "item.variants_mod.netherite_fork": "Netherite Fork",
+    "item.variants_mod.amethyst_spellbook": "Amethyst Spellbook",
+  
+
+    "item.variants_mod.wither_cannon": "Wither Cannon",
+
+    
+    "block.variants_mod.topaz_block": "Topaz Block",
+    "block.variants_mod.topaz_ore": "Topaz Ore",
+    "block.variants_mod.sound_block": "Sound Block",
+    "block.variants_mod.mortar_block": "Mortar",
+    "creativetab.variants_mod_tab": "Variants"
+  }

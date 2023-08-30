@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#* ",
+        "** ",
+        "  *"
+    ],
+    "key": {
+        "#": {
+            "item": "variants_mod:topaz"
+        },
+        "*": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "variants_mod:topaz_staff",
+        "count": 1
+    }
+}
